@@ -1,0 +1,39 @@
+#include <iostream>
+
+using namespace std;
+
+template<typename T1, typename T2>
+T1 sumSquares(T1 A, T2 B)
+{
+    return A * A + B * B;
+}
+/**
+char sumSquare(int A, int B)
+{
+    return A*A+B*B;
+}
+
+long sumSquare(double A, long B)
+{
+    return A*A + B*B;
+}
+
+double sumSquare(double A, char B)
+{
+    return A*A + B*B;
+}
+
+int sumSquare(long A, int B = 9)
+{
+    return A*A + B*B;
+}
+**/
+
+int main()
+{
+    cout << sumSquares(2, 'A') << endl;
+
+
+
+    return 0;
+}
