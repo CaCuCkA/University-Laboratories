@@ -1,0 +1,15 @@
+﻿  Exercise 5.cpp
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 5\Exercise 5.cpp(63,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 5\Exercise 5.cpp(66,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 5\Exercise 5.cpp(82,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 5\Exercise 5.cpp(84,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 5\Exercise 5.cpp(86,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 5\Exercise 5.cpp(103,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 5\Exercise 5.cpp(105,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 5\Exercise 5.cpp(123,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 5\Exercise 5.cpp(133,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 5\Exercise 5.cpp(144,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 5\Exercise 5.cpp(163,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 5\Exercise 5.cpp(174,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 5\Exercise 5.cpp(185,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Exercise 5.vcxproj -> D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Debug\Exercise 5.exe

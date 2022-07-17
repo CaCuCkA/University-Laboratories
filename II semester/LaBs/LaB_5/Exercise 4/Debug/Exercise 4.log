@@ -1,0 +1,7 @@
+﻿  Exercise 4.cpp
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 4\Exercise 4.cpp(54,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 4\Exercise 4.cpp(57,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 4\Exercise 4.cpp(72,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 4\Exercise 4.cpp(92,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 4\Exercise 4.cpp(94,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Exercise 4.vcxproj -> D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Debug\Exercise 4.exe

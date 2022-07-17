@@ -1,0 +1,4 @@
+Nick 0.021
+Vova 12.12
+Sasha 0.004
+Alex 999.12

@@ -1,0 +1,5 @@
+﻿  Exercise 4.cpp
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_4\Exercise 4\Exercise 4.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_4\Exercise 4\Exercise 4.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_4\Exercise 4\Exercise 4.cpp(12,6): warning C4101: 'temp': unreferenced local variable
+  Exercise 4.vcxproj -> D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_4\Debug\Exercise 4.exe

@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (LaB_3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Exercise 1.cpp
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_3\LaB_3\Exercise 1.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_3\LaB_3\Exercise 1.cpp(17,7): warning C4101: 'ch': unreferenced local variable
+  LaB_3.vcxproj -> D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_3\Debug\Exercise 1.exe

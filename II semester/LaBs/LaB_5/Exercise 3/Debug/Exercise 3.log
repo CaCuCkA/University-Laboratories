@@ -1,0 +1,11 @@
+﻿  Exercise 3.cpp
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 3\Exercise 3.cpp(21,20): warning C4305: инициализация: усечение из "__int64" в "int"
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 3\Exercise 3.cpp(21,17): warning C4309: инициализация: усечение константного значения
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 3\Exercise 3.cpp(41,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 3\Exercise 3.cpp(46,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 3\Exercise 3.cpp(101,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 3\Exercise 3.cpp(114,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 3\Exercise 3.cpp(117,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 3\Exercise 3.cpp(132,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Exercise 3\Exercise 3.cpp(134,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Exercise 3.vcxproj -> D:\Університет\Алгоритмізація та програмування\II semester\LaBs\LaB_5\Debug\Exercise 3.exe
